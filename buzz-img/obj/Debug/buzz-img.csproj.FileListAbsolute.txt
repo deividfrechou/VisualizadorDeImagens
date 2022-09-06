@@ -1,0 +1,11 @@
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\bin\Debug\buzz-img.exe.config
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\bin\Debug\buzz-img.exe
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\bin\Debug\buzz-img.pdb
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\obj\Debug\buzz-img.csproj.AssemblyReference.cache
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\obj\Debug\buzz-img.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\obj\Debug\buzz_img.Form1.resources
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\obj\Debug\buzz_img.Properties.Resources.resources
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\obj\Debug\buzz-img.csproj.GenerateResource.cache
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\obj\Debug\buzz-img.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\obj\Debug\buzz-img.exe
+C:\Users\Professor\Desktop\Visual Studio\buzz-img\buzz-img\obj\Debug\buzz-img.pdb
